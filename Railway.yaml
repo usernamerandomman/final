@@ -1,4 +1,4 @@
 services:
   app:
     buildCommand: mvn package
-    runCommand: java -jar target/your-project.jar
+    runCommand: java -jar target/APIDIo.jar
